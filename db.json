@@ -1,0 +1,16 @@
+{
+  "phones": [
+     {
+        "Prefix" :	813,	
+        "Network" :	"Smart or Talk N Text"
+    },
+    {
+        "Prefix" :	817,	
+        "Network" :	"Globe or Touch Mobile"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
